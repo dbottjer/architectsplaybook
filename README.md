@@ -12,6 +12,7 @@ This repository packages reusable Copilot **prompts** and **skills** as plain Ma
 | Prompt | `prompts/dotnet-code-quality-scorecard.prompt.md` | Scores the maintainability and overall quality of a .NET solution, project by project. |
 | Prompt | `prompts/secure-code-review.prompt.md` | Performs a prioritized, evidence-based secure code review. |
 | Skill | `skills/create-readme/SKILL.md` | Generates a README.md for a project following a consistent structure and tone. |
+| Instruction |`instructions/architecture-instructions.md` | Common architecture practices and approaches to follow. |
 
 ## Getting Started
 
